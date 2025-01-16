@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+<img src="assets/test.png?raw=true" align="center" width=100% height=50% />
+</div> 
+
+## About me
+
+
+
 
 <!--
 **liujeffery/liujeffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

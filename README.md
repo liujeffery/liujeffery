@@ -19,19 +19,28 @@
 
 - ⚙ [Benedict](https://github.com/liujeffery/benedict), a Discord bot that supports smart assistant features, all with the power of your voice.
 - 💼 [My website](https://liujeffery.me/portfolio-website/), which I independently coded using React.js and the Material UI library. Check it out!
+- 🔁 Created a unit testing framework for the payload team using C, including a custom CI/CD pipeline.
+- 📦 Created an installer for both the frontend and the backend of our payload testpoint, with tools such as Electron Forge and PyInstaller. Currently working on creating a CI/CD pipeline for this process.
 
+## 🛠 Skills
 
-<!--
-**liujeffery/liujeffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,javascript,typescript,java,c,cpp,sqlite" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,discordjs,googlecloud,heroku" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linux,vscode,raspberrypi,npm,eclipse" />
+  </a>
+</p>
